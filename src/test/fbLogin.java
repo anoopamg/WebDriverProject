@@ -12,7 +12,7 @@ public class fbLogin {
 		
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		
-		//1. Launch facebook
+		//1. Launch face book
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/");
 		
